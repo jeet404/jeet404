@@ -9,6 +9,8 @@
 	<a href="https://www.instagram.com/mind_blowing_jap/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
   	<a href="https://twitter.com/JeetPat80238666"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
+
+![](https://activity-graph.herokuapp.com/graph?username=jap1203&theme=react-dark&hide_border=true&area=true)
 <!---
 jap1203/jap1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
