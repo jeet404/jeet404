@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Jeet Patel
-- 👀 I’m interested in #exploring
-- 🌱 I’m currently learning All Languages.
+<h1>👋 Hi, I’m Jeet Patel</h1>
+ 
+## 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning How Websites build
 
 <p align="center" >
 	<a href="https://github.com/jeet404"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
