@@ -22,6 +22,7 @@
 
 </p>
 </details>
+<br>
 
 <p align="center" >
 	<a href="https://github.com/jeet404"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
