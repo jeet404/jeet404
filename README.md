@@ -1,12 +1,12 @@
 <h1>👋 Hi, I’m Jeet Patel</h1>
- 
-## 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning How Websites build
-
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
-<br>
+
+## 👀 I’m interested in Web Developement
+- 🌱 I’m currently learning How Websites build
+- 💻 Expert in Computer. 
+<hr>
 
 <p align="center">
 👨‍💻Languages<br><br>
@@ -17,13 +17,11 @@
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></code>
 </p>
 <br>
-
 <p align="center">
 💾Databases<br><br>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
 </p>
 <br/>
-
 <p align="center">
 ⚙️Others<br><br>
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
