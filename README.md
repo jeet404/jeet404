@@ -10,6 +10,8 @@
   <img align="center" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
 </div>
+<br>
+<br>
 
 <p align="center">
 👨‍💻 Programming Languages<br><br>
