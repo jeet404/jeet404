@@ -5,9 +5,11 @@
 - 💻 Expert in Computer. 
 <hr>
 
+<div align="center"
 <a target="_blank">
   <img align="center" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
+</div>
 
 <p align="center">
 👨‍💻 Programming Languages<br><br>
