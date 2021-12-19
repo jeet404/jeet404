@@ -15,22 +15,22 @@
 
 <p align="center">
 👨‍💻 Programming Languages<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></code>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/></code>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/></code>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/></code>
 </p>
 <br>
 <p align="center">
 💾Databases<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/></code>
 </p>
 <br/>
 <p align="center">
 ⚙️Others<br><br>
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
-<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code></p>
+<code><img width="60" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/></code>
+<code><img width="60" height="60" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/></code></p>
 <br/>
 
 <details open="">
