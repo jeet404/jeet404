@@ -3,9 +3,8 @@
 ## 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning How Websites build
 - 💻 Expert in Computer. 
-<hr>
 
-<div align="center"
+<div align="right">
 <a target="_blank">
   <img align="center" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/image.gif">
 </a>
