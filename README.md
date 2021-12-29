@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/jeet404">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&hide_border=true&title_color=cyan&amp&icon_color=FFFFFF&amp&text_color=151515&amp&bg_color=ffffff&count_private=true&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&hide_border=true&title_color=cyan&amp&icon_color=cyan&amp&text_color=151515&amp&bg_color=ffffff&count_private=true&include_all_commits=true"/>
   </a>
 
 </p>
