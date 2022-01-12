@@ -35,14 +35,12 @@
 <br>
 <br>
 
-<p align="center">
-  <a href="https://github.com/jeet404">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&hide_border=true&title_color=cyan&amp&icon_color=ffffff&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet404&theme=gruvbox&hide_border=true" />
   </a>
-
 </p>
-</details>
-<br>
 
 <p align="center" >
 	<a href="https://github.com/jeet404"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
