@@ -51,7 +51,7 @@
 </p>
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeet404&theme=github_dark)
+<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeet404&theme=github_dark)-->
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=react-dark&hide_border=true&area=true)
 #
 <div align="center">
