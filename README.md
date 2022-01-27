@@ -52,7 +52,7 @@
 <br/>
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeet404&theme=github_dark)-->
-![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=gruvbox&hide_border=true&area=true)
 #
 <div align="center">
 	<h1>🚀 Show some 💙 by starring some of the repositories!</h1>
