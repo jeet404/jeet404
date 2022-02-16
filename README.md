@@ -55,7 +55,7 @@
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=gruvbox&hide_border=true&area=true)
 #
 <div align="center">
-	<h1>🚀 Show some 💙 by starring some of the repositories!</h1>
+	<h1>🚀 Show some Love💙 by starring some of the repositories!</h1>
 </div>
 <!---
 jap1203/jap1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
