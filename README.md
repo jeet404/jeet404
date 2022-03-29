@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/jeet404/">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&theme=gruvbox&hide_border=true&count_private=&include_all_commits=true"/>
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&theme=gruvbox&hide_border=true&count_private=&include_all_commits="/>
     	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet404&theme=gruvbox&hide_border=true" />
   </a>
 </p>
