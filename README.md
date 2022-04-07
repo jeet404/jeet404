@@ -16,6 +16,8 @@
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/python.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/c%23.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/java.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/cpp.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/clang.png"/></code>
 </p>
 <br>
 <p align="center">
