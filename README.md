@@ -1,8 +1,10 @@
-<h1>👋 Hi, I’m Jeet 💙 Patel</h1>
+<h1>👋 Hi, I’m Jeet💙Patel</h1>
 
 ## 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning How Websites build
+- 🌱 I’m currently learning How Websites build.
 - 💻 Expert in Computer. 
+- Also I'm trying Beckend Programming also may be in future will become Full Stack Developer😁.
+- Part-Time Canva Designer. 
 
 <br>
 <br>
