@@ -3,7 +3,7 @@
 ## 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning How Websites build.
 - 💻 Expert in Computer. 
-- Also I'm trying Beckend Programming also may be in future will become Full Stack Developer😁.
+- Also I'm trying Beckend Programming, May be in future will become Full Stack Developer😁.
 - Part-Time Canva Designer. 
 
 <br>
