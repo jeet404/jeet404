@@ -23,12 +23,16 @@
 <p align="center">
 💾Databases<br><br>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/mysql.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/sql.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/msaccess.png"/></code>
 </p>
 <br/>
 <p align="center">
 ⚙️Others<br><br>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/git.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/linux.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/canva.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
 <br/>
 
 <details open="">
