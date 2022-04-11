@@ -5,9 +5,10 @@
 - 💻 Expert in Computer. 
 - Also I'm trying Beckend Programming, May be in future will become Full Stack Developer😁.
 - Part-Time Canva Designer. 
-
 <br>
-<br>
+<div align="center">
+	<img src="https://github.com/jeet404/jeet404/blob/main/src/coder.gif" width="50%" height="250" />
+</div>
 
 <p align="center">
 👨‍💻 Programming Languages<br><br>
