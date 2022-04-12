@@ -9,7 +9,7 @@
 <div align="center">
 	<img src="https://github.com/jeet404/jeet404/blob/main/src/coder.gif" width="50%" height="250" />
 </div>
-
+<br>
 <p align="center">
 👨‍💻 Programming Languages<br><br>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/html.png"/></code>
