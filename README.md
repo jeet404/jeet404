@@ -38,7 +38,6 @@
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
 <br/>
 
-<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
@@ -48,8 +47,8 @@
 
 <p align="center">
   <a href="https://github.com/jeet404/">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&theme=gruvbox&hide_border=true&count_private=&include_all_commits=true"/>
-    	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeet404&theme=gruvbox&hide_border=true" />
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&theme=synthwave&hide_border=true"/>
+    	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=jeet404&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=7109D0&ring=00CED3"/>
   </a>
 </p>
 
@@ -63,7 +62,7 @@
 <br/>
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeet404&theme=github_dark)-->
-![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=gruvbox&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
 #
 <div align="center">
 	<h1>🚀 Show some Love💙 by starring some of the repositories!</h1>
