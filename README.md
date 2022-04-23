@@ -6,21 +6,25 @@
 - Also I'm trying Beckend Programming, May be in future will become Full Stack Developer😁.
 - Part-Time Canva Designer. 
 <br>
-<div align="center">
+<!--<div align="center">
 	<img src="https://github.com/jeet404/jeet404/blob/main/src/coder.gif" width="50%" height="250" />
-</div>
+</div>-->
 <br>
 <p align="center">
 👨‍💻 Programming Languages<br><br>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/html.png"/></code>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/css.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/js.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/php.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/python.png"/></code>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/c%23.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/java.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/c%23.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/cpp.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/clang.png"/></code>
+</p>
+<br>
+<p align="center">
+👨‍💻 Front-End<br><br>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/html.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/css.png"/></code>
 </p>
 <br>
 <p align="center">
