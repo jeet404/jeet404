@@ -25,6 +25,7 @@
 👨‍💻 Front-End<br><br>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/html.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/css.png"/></code>
+<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/bstrp.png"/></code>
 </p>
 <br>
 <p align="center">
