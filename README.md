@@ -56,7 +56,9 @@
     	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=jeet404&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=7109D0&ring=00CED3"/>
   </a>
 </p>
-
+<!--<br>
+<a href="https://github.com/jeet404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet404&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>-->
 <p align="center" >
 	<a href="https://wa.me/918200383227"><img alt="whatsapp" width="5%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/wp.png"/></a>
 	<a href="https://www.linkedin.com/in/jeet404/"><img alt="linkedin" width="5%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/linkedin.png"/></a>
