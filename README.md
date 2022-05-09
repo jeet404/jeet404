@@ -44,14 +44,12 @@
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/canva.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
 <br/>
-
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
   <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
 </summary>
 <br>
 <br>
-
 <p align="center">
   <a href="https://github.com/jeet404/">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&theme=synthwave&hide_border=true"/>
@@ -69,7 +67,6 @@
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="5%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
 <br/>
-
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeet404&theme=github_dark)-->
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
 #
