@@ -58,7 +58,7 @@
   </a>
 </p>
 <!--<br>
-<a href="https://github.com/jeet404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet404&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/jeet404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeet404&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br>-->
 <p align="center" >
 	<a href="https://wa.me/918200383227"><img alt="whatsapp" width="5%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/wp.png"/></a>
