@@ -67,8 +67,10 @@
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="5%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
 <br/>
+
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeet404&theme=github_dark)-->
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
+
 #
 <div align="center">
 	<h1>🚀 Show some Love💙 by starring some of the repositories!</h1>
