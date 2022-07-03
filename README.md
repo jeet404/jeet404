@@ -9,7 +9,7 @@
 - Part-Time Canva Designer. 
 - I have better Expearience on Front-End.
 - Everybody can Code.
-<br>
+
 <!--<div align="center">
 	<img src="https://github.com/jeet404/jeet404/blob/main/src/coder.gif" width="50%" height="250" />
 </div>-->
