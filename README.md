@@ -3,7 +3,6 @@
 ### India <span>🇮🇳</span>
 
 ## 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning How Websites build.
 - 💻 Expert in Computer. 
 - May be In Future, Full Stack Developer😁.
 - Part-Time Canva Designer. 
