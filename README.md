@@ -70,6 +70,6 @@
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
 
 #
-<div align="center">
-	<h1>🚀 Show some Love💙 by starring some of the repositories!</h1>
+<div align="center" style="color:red">
+	<h1>🚀 Show some 💙 by starring some of the repositories!</h1>
 </div>
