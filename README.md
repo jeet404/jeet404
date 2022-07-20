@@ -14,7 +14,7 @@
 </div>-->
 <br>
 <p align="center">
-👨‍💻 Programming Languages<br><br>
+👨‍💻 Technology<br><br>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/js.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/php.png"/></code>
 <code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/python.png"/></code>
