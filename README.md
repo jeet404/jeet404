@@ -40,10 +40,10 @@
 <br/>
 <p align="center">
 ⚙️Others<br><br>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/git.png"/></code>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/linux.png"/></code>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/canva.png"/></code>
-<code><img width="60" height="60" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
+<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/git.png"/></code>
+<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/linux.png"/></code>
+<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/canva.png"/></code>
+<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
 <br/>
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
