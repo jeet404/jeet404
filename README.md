@@ -65,7 +65,6 @@
 	<a href="https://www.facebook.com/jeet404.Patel/"><img alt="facebook" width="6%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/fb.png"/></a>
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="6%" style="padding:5px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
-<br/>
 
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
 
