@@ -22,6 +22,8 @@
 <code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/csharp.png"/></code>
 <code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/cpp.png"/></code>
 <code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/clang.png"/></code>
+<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/dotnet.png"/></code>
+<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/asp.png"/></code>
 </p>
 <br>
 <p align="center">
