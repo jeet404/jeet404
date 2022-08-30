@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Jeet💙Patel</h1>
+<h1>👋 Hi, I’m Jeet</h1>
 
 ### India <span>🇮🇳</span>
 
