@@ -12,6 +12,7 @@
 <!--<div align="center">
 	<img src="https://github.com/jeet404/jeet404/blob/main/src/coder.gif" width="50%" height="250" />
 </div>-->
+
 <br>
 <p align="center">
 👨‍💻 Technology<br><br>
