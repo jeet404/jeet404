@@ -7,6 +7,7 @@
 - May be In Future, Full Stack Developer😁.
 - Part-Time Canva Designer. 
 - I have better Expearience on Front-End.
+- Tech enthusiast
 - Everybody can Code.
 
 <!--<div align="center">
