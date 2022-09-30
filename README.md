@@ -70,8 +70,6 @@
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="6%" style="padding:6px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
 
-[![@jeet404's Holopin board](https://holopin.io/api/user/board?user=jeet404)](https://holopin.io/@jeet404)
-<hr>
 ![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
 
 <div align="center">
