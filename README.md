@@ -70,10 +70,10 @@
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="6%" style="padding:6px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=jeet404&theme=github_dark&hide_border=true&area=true)
+[![Jeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeet404&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<h1>🚀 Show some 💙 by starring some of the repositories!</h1>
 </div>
 
-[![@jeet404's Holopin board](https://holopin.io/api/user/board?user=jeet404)](https://holopin.io/@jeet404)
+<!-- [![@jeet404's Holopin board](https://holopin.io/api/user/board?user=jeet404)](https://holopin.io/@jeet404) -->
