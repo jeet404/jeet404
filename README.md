@@ -69,7 +69,7 @@
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="6%" style="padding:6px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
 
-[![Jeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeet404&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeet404)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<h1>🚀 Show some 💙 by starring some of the repositories!</h1>
