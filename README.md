@@ -39,6 +39,8 @@
 <p align="center">
 💾Databases<br><br>
 	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/mysql.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/mongodb.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/firebase.png"/></code>
 </p>
 <br/>
 <p align="center">
