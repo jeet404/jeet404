@@ -17,15 +17,16 @@
 <br>
 <p align="center">
 👨‍💻 Technology<br><br>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/js.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/php.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/python.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/java.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/csharp.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/cpp.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/clang.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/dotnet.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/asp.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/nodejs.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/express.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/js.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/python.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/java.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/csharp.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/cpp.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/clang.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/dotnet.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/php.png"/></code>
 </p>
 <br>
 <p align="center">
@@ -37,17 +38,15 @@
 <br>
 <p align="center">
 💾Databases<br><br>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/mysql.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/sql.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/msaccess.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/mysql.png"/></code>
 </p>
 <br/>
 <p align="center">
 ⚙️Others<br><br>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/git.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/linux.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/canva.png"/></code>
-<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/git.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/linux.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/canva.png"/></code>
+	<code><img width="65" height="65" src="https://github.com/jeet404/jeet404/blob/main/src/msoffice.png"/></code>
 <br/>
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
@@ -70,7 +69,7 @@
   	<a href="https://twitter.com/jeet404_"><img alt="twitter" width="6%" style="padding:6px" src="https://github.com/jeet404/jeet404/blob/main/src/twitter.png"/></a>
 </p>
 
-[![Jeet's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jeet404&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeet404)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 	<h1>🚀 Show some 💙 by starring some of the repositories!</h1>
