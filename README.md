@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jeet and I'm a Backend Developer, from India </h2>
+<h2 align="left">Hi 👋! My name is Jeet, from 🇮🇳 </h2>
 
 ###
 
