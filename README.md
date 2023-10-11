@@ -75,12 +75,12 @@
 
 ###
 
-<div align="center">
+<!--<div align="center">
   <a href="https://open.spotify.com/user/ks512jooxj4tj360pnsibyzr3">
     
    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ks512jooxj4tj360pnsibyzr3&count=5&width=800)
   </a>
-</div>
+</div>-->
 
 ###
 
