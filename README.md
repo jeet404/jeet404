@@ -86,6 +86,7 @@
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&theme=synthwave&hide_border=true"/>
+  <br />
   <img width="49.5%" src="https://streak-stats.demolab.com?user=jeet404&theme=synthwave&hide_border=true&exclude_days=Sun%2CSat"/>
 </p>
 
