@@ -87,8 +87,11 @@
 </div>-->
 
 ###
-
-![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeet404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Jeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeet404&theme=tokyonight&hide_border=true)
+<div align="center">
+  
+  ![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeet404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+  ![Jeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeet404&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ###
