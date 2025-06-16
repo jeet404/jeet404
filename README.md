@@ -88,9 +88,7 @@
 
 ###
 
-
-  ![jeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeet404&show_icons=true&theme=catppuccin_mocha)
+![Jeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeet404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Jeet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeet404&theme=tokyonight&hide_border=true)
 
 ###
-
-[![An image of @jeet404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jeet404)](https://holopin.io/@jeet404)
